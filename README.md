@@ -30,8 +30,8 @@ Hi, I'm Nie Chen, a passionate self-taught FrontEnd developer from China.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niezicheng&repo=niezicheng.github.io&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/niezicheng/exploreFlowers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niezicheng&repo=exploreFlowers&theme=material-palenight" />
+<a href="https://github.com/niezicheng/changelog-standard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niezicheng&repo=changelog-standard&theme=material-palenight" />
 </a>  
 
 <br/>
